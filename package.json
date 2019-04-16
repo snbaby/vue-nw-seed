@@ -1,6 +1,6 @@
 {
   "name": "vue-nw-seed",
-  "appName": "应用的中文别名",
+  "appName": "薅羊毛",
   "version": "0.1.1",
   "description": "A seed project with Vue.js and Nw.js",
   "author": "anchengjian <anchengjian@gmail.com>",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "node-webkit-updater": "^0.3.3",
-    "nw": "0.14.7-sdk",
+    "nw": "0.37.4-sdk",
     "vue": "^2.2.2",
     "vue-router": "^2.2.0"
   },
@@ -70,7 +70,7 @@
   "main": "http://localhost:8080",
   "manifestUrl": "http://localhost:8080/releases/upgrade.json",
   "window": {
-    "title": "vue-nw-seed",
+    "title": "薅羊毛",
     "toolbar": false,
     "width": 800,
     "height": 500,
