@@ -29,7 +29,6 @@
     <a-modal
       title="登录"
       v-model="visible"
-      :width="400"
       @ok="handleOk"
       @cancel="handleCancel"
     >

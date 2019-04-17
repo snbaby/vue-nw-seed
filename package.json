@@ -15,7 +15,7 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "node-webkit-updater": "^0.3.3",
-    "nw": "0.37.4",
+    "nw": "^0.37.4-sdk",
     "vue": "^2.2.2",
     "vue-router": "^2.2.0"
   },
